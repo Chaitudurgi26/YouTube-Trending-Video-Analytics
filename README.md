@@ -1,6 +1,3 @@
-Here is your **final clean README.md** — **fully formatted**, copy-paste ready, no extra explanations.
-
----
 
 # 📊 YouTube Trending Video Analysis
 
